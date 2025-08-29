@@ -1,0 +1,17 @@
+{
+  "name": "body_query",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon.js"
+  },
+  "keywords": ["Senai", "GET", "Body", "Query", "POST"],
+  "author": "João Victor",
+  "license": "MIT",
+  "description": "Projeto exemplo para filtros e verbos HTTP - GET e POST",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
